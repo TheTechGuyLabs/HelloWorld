@@ -1,4 +1,4 @@
 HelloWorld
 ==========
 
-This is a HelloWorld code bit.
+This is my ReadMe thing. You can stop reading me.
